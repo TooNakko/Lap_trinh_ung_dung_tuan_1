@@ -1,0 +1,13 @@
+Equation: 1.00x^2 + 2.00x + 1.00
+Root 1 = -1.00
+Equation: 2.00x^2 + 3.00x + 1.00
+Root 1 = -0.50
+Root 2 = -1.00
+Equation: 2.00x^2 + 3.00x + -3.00
+Root 1 = 0.69
+Root 2 = -2.19
+Equation: 2.00x^2 + 1.00x + 0.00
+Root 1 = 0.00
+Root 2 = -0.50
+Equation: 0.00x^2 + 1.00x + 5.00
+Root 1 = -5.00
